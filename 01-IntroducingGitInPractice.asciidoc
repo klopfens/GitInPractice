@@ -1,6 +1,4 @@
-This is a simple text document
-This is the second line in the file
-This is the third line in the file
-This is the fourth line in the file
-This is the fifth line in the file
-This is the sixth line in the file
+#Git In Practice 1
+## Chapter 1
+It is a truth universally acknowledged, that a single person in possession of good source code, must be in want of a verision control system.
+## Chapter 2
